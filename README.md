@@ -2,7 +2,12 @@
 
 Welcome to Braintree's v.zero SDK for Android. This library will help you accept card and PayPal payments in your Android app.
 
-![Screenshot of v.zero](screenshot.png)
+Please remember that this Source Code is made purely to demonstrate the possibility of passing the customer id and payment token to the Android Application. 
+
+To test the demo
+1) Start the app and click options (top right) and change server to Production (which points to my Heroku app)
+2) Then click the center button for custom form
+3) once form is filled etc .. you should be able to see the customer id and payment token
 
 ## Documentation
 
