@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/vidsouza/Documents/work/AndroidWorkSpace/BT_Andriod/braintree_android/BraintreeApi/src/main/assets"/></dataSet><dataSet config="release"><source path="/Users/vidsouza/Documents/work/AndroidWorkSpace/BT_Andriod/braintree_android/BraintreeApi/src/release/assets"/></dataSet></merger>

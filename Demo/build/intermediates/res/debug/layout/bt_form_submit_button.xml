@@ -1,0 +1,12 @@
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- tablet version included in layout-w500dp/ dir -->
+    <Button
+        android:id="@+id/bt_card_form_submit_button"
+        style="@style/bt_submit_button"
+        android:layout_alignParentBottom="true"
+        android:background="@color/bt_button_disabled_color" />
+
+</merge>
+
+<!-- From: file:/Users/vidsouza/Documents/work/AndroidWorkSpace/BT_Andriod/braintree_android/Drop-In/src/main/res/layout/bt_form_submit_button.xml --><!-- From: file:/Users/vidsouza/Documents/work/AndroidWorkSpace/BT_Andriod/braintree_android/Demo/build/intermediates/exploded-aar/braintree_android/Drop-In/unspecified/res/layout/bt_form_submit_button.xml -->

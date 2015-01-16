@@ -1,0 +1,12 @@
+<!-- From: file:/Users/jw/dev/double-espresso/espresso-runner-runtime/src/main/AndroidManifest.xml --><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.google.android.apps.common.testing.testrunner.runtime">
+
+    <uses-sdk android:minSdkVersion="8"/>
+
+    <application/>
+
+    <!-- From: file:/Users/jw/dev/double-espresso/espresso-runner-runtime/build/exploded-aar/com.jakewharton.espresso/espresso-runner/1.1-r3/AndroidManifest.xml -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <!-- From: file:/Users/jw/dev/double-espresso/espresso-runner-runtime/src/main/AndroidManifest.xml -->
+    
+
+</manifest>

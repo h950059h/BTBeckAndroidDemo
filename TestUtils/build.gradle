@@ -1,0 +1,35 @@
+apply plugin: 'android-sdk-manager'
+apply plugin: 'com.android.library'
+
+def LOCALHOST_IP = System.properties['LOCALHOST_IP'] ?: '"10.0.2.2"';
+def GATEWAY_IP = System.properties['GATEWAY_IP'] ?: '"10.0.2.2"';
+def GATEWAY_PORT = System.properties['GATEWAY_PORT'] ?: '"3000"';
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion '21.1.1'
+
+    defaultConfig {
+        minSdkVersion 10
+        targetSdkVersion 21
+        versionCode 18
+        versionName '1.2.7'
+    }
+
+    packagingOptions {
+        exclude 'LICENSE.txt'
+    }
+}
+
+dependencies {
+    compile 'org.mockito:mockito-core:1.9.5'
+    compile 'com.google.dexmaker:dexmaker:1.1'
+    compile 'com.google.dexmaker:dexmaker-mockito:1.1'
+    compile 'com.jakewharton.espresso:espresso:1.1-r3'
+}
+
+android.buildTypes.each { type ->
+    type.buildConfigField 'String', 'LOCALHOST_IP', LOCALHOST_IP
+    type.buildConfigField 'String', 'GATEWAY_IP', GATEWAY_IP
+    type.buildConfigField 'String', 'GATEWAY_PORT', GATEWAY_PORT
+}

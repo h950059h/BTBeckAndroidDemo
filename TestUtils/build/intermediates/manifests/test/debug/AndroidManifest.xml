@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.braintreepayments.api.testutils.test" >
+
+    <uses-sdk
+        android:minSdkVersion="10"
+        android:targetSdkVersion="21" />
+
+    <instrumentation
+        android:name="android.test.InstrumentationTestRunner"
+        android:functionalTest="false"
+        android:handleProfiling="false"
+        android:label="Tests for com.braintreepayments.api.testutils.test"
+        android:targetPackage="com.braintreepayments.api.testutils.test" />
+
+    <uses-permission android:name="android.permission.SET_ANIMATION_SCALE" />
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" /> <!-- From: file:/var/folders/w0/hr1h_7h50f3_pwd_nrk9l808000195/T/manifestMerge2431407862702490546.xml -->
+    <!-- From: file:/Users/jw/dev/double-espresso/espresso-runner-runtime/build/exploded-aar/com.jakewharton.espresso/espresso-runner/1.1-r3/AndroidManifest.xml -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <android:uses-permission
+        android:name="android.permission.READ_EXTERNAL_STORAGE"
+        android:maxSdkVersion="18" />
+
+    <application>
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+</manifest>

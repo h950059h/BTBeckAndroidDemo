@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Applications/gradle-2.2.1/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/vidsouza/Documents/work/AndroidWorkSpace/BT_Andriod/braintree_android/Demo/build/intermediates/pre-dexed/debug/gson-2.3.1-62cdd9564d7d30f378bd4600214e711f0648f017.jar" />
+    </item>
+    <item
+        jar="/Applications/gradle-2.2.1/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.4/3bae85a076241828810bf8fbcc12e5891d5fc34c/android-async-http-1.4.4.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="3bae85a076241828810bf8fbcc12e5891d5fc34c">
+        <dex dex="/Users/vidsouza/Documents/work/AndroidWorkSpace/BT_Andriod/braintree_android/Demo/build/intermediates/pre-dexed/debug/android-async-http-1.4.4-2750a72f85c369a91ae836b49f2059e9646e7a7c.jar" />
+    </item>
+    <item
+        jar="/Users/vidsouza/Documents/work/AndroidWorkSpace/BT_Andriod/braintree_android/Demo/build/intermediates/exploded-aar/braintree_android/BraintreeApi/unspecified/libs/PayPalAndroidSDK-2.7.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="19e52a5dfb00ba880ceeddf9ff179b1da47d3c80">
+        <dex dex="/Users/vidsouza/Documents/work/AndroidWorkSpace/BT_Andriod/braintree_android/Demo/build/intermediates/pre-dexed/debug/PayPalAndroidSDK-2.7.3-a6f8fe8caa730f17bd31d5a2d98a59152623b3c9.jar" />
+    </item>
+    <item
+        jar="/Users/vidsouza/Documents/work/AndroidWorkSpace/BT_Andriod/braintree_android/Demo/build/intermediates/exploded-aar/braintree_android/Drop-In/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="8758d34583aa405a66b3a1eaef402b95a7cbd6b1">
+        <dex dex="/Users/vidsouza/Documents/work/AndroidWorkSpace/BT_Andriod/braintree_android/Demo/build/intermediates/pre-dexed/debug/classes-c60c987adb81128ff38d8bd218469d9483caf7b4.jar" />
+    </item>
+    <item
+        jar="/Users/vidsouza/Documents/work/AndroidWorkSpace/BT_Andriod/braintree_android/Demo/build/intermediates/exploded-aar/braintree_android/BraintreeData/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="5cf6cb1dffbb8e1f43c7fe5603449ceb2c8adc72">
+        <dex dex="/Users/vidsouza/Documents/work/AndroidWorkSpace/BT_Andriod/braintree_android/Demo/build/intermediates/pre-dexed/debug/classes-c60e22a09c365f84a8ade72984b2aa471ff5ef7b.jar" />
+    </item>
+    <item
+        jar="/Users/vidsouza/Documents/work/AndroidWorkSpace/BT_Andriod/braintree_android/Demo/build/intermediates/exploded-aar/braintree_android/BraintreeApi/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="f508c060a664cc9bd633dba18adc019d03754808">
+        <dex dex="/Users/vidsouza/Documents/work/AndroidWorkSpace/BT_Andriod/braintree_android/Demo/build/intermediates/pre-dexed/debug/classes-042c1f3605e80cab0ea9d73476539df2c0e542c6.jar" />
+    </item>
+    <item
+        jar="/Users/vidsouza/Documents/work/AndroidWorkSpace/BT_Andriod/braintree_android/Demo/build/intermediates/exploded-aar/braintree_android/BraintreeData/unspecified/libs/devicecollector-sdk-2.5.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="566020d79462ad829ce7daa8c557b239d662ec46">
+        <dex dex="/Users/vidsouza/Documents/work/AndroidWorkSpace/BT_Andriod/braintree_android/Demo/build/intermediates/pre-dexed/debug/devicecollector-sdk-2.5-2d20d34ac7471330c2df6444a8991496f2d6c5f1.jar" />
+    </item>
+
+</items>

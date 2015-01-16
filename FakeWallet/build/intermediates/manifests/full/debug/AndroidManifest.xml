@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.braintreepayments.fake.wallet"
+    android:versionCode="18"
+    android:versionName="1.2.7" >
+
+    <uses-sdk
+        android:minSdkVersion="10"
+        android:targetSdkVersion="21" />
+
+    <application
+        android:allowBackup="false"
+        android:icon="@drawable/ic_launcher"
+        android:label="Fake Wallet" >
+        <activity
+            android:name="com.braintreepayments.fake.wallet.MainActivity"
+            android:label="Fake Wallet" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.braintreepayments.fake.wallet.AppSwitchActivity"
+            android:exported="true"
+            android:label="Fake Wallet App Switch" />
+    </application>
+
+</manifest>

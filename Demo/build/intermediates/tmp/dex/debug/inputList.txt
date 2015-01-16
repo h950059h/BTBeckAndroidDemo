@@ -1,0 +1,8 @@
+/Users/vidsouza/Documents/work/AndroidWorkSpace/BT_Andriod/braintree_android/Demo/build/intermediates/classes/debug
+/Users/vidsouza/Documents/work/AndroidWorkSpace/BT_Andriod/braintree_android/Demo/build/intermediates/pre-dexed/debug/classes-c60e22a09c365f84a8ade72984b2aa471ff5ef7b.jar
+/Users/vidsouza/Documents/work/AndroidWorkSpace/BT_Andriod/braintree_android/Demo/build/intermediates/pre-dexed/debug/devicecollector-sdk-2.5-2d20d34ac7471330c2df6444a8991496f2d6c5f1.jar
+/Users/vidsouza/Documents/work/AndroidWorkSpace/BT_Andriod/braintree_android/Demo/build/intermediates/pre-dexed/debug/android-async-http-1.4.4-2750a72f85c369a91ae836b49f2059e9646e7a7c.jar
+/Users/vidsouza/Documents/work/AndroidWorkSpace/BT_Andriod/braintree_android/Demo/build/intermediates/pre-dexed/debug/classes-c60c987adb81128ff38d8bd218469d9483caf7b4.jar
+/Users/vidsouza/Documents/work/AndroidWorkSpace/BT_Andriod/braintree_android/Demo/build/intermediates/pre-dexed/debug/classes-042c1f3605e80cab0ea9d73476539df2c0e542c6.jar
+/Users/vidsouza/Documents/work/AndroidWorkSpace/BT_Andriod/braintree_android/Demo/build/intermediates/pre-dexed/debug/gson-2.3.1-62cdd9564d7d30f378bd4600214e711f0648f017.jar
+/Users/vidsouza/Documents/work/AndroidWorkSpace/BT_Andriod/braintree_android/Demo/build/intermediates/pre-dexed/debug/PayPalAndroidSDK-2.7.3-a6f8fe8caa730f17bd31d5a2d98a59152623b3c9.jar

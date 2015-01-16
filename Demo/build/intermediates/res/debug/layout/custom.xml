@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:paddingTop="40dp">
+
+    <!--com.braintreepayments.api.dropin.view.PaymentButton
+        android:id="@+id/payment_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" /-->
+
+    <EditText
+        android:id="@+id/card_number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:inputType="number"
+        android:hint="Card Number"/>
+
+    <EditText
+        android:id="@+id/card_expiration_date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="date"
+        android:hint="Expiration Date"/>
+
+    <Button
+        android:id="@+id/purchase_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Purchase"
+        android:onClick="onPurchase" />
+
+</LinearLayout><!-- From: file:/Users/vidsouza/Documents/work/AndroidWorkSpace/BT_Andriod/braintree_android/Demo/src/main/res/layout/custom.xml -->

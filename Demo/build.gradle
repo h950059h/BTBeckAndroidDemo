@@ -1,0 +1,25 @@
+apply plugin: 'android-sdk-manager'
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion '21.1.1'
+
+    defaultConfig {
+        minSdkVersion 10
+        targetSdkVersion 21
+        versionCode 18
+        versionName '1.2.7'
+    }
+
+    packagingOptions {
+        exclude 'LICENSE.txt'
+    }
+}
+
+dependencies {
+    compile 'com.loopj.android:android-async-http:1.4.4'
+    compile project(':Drop-In')
+
+    androidTestCompile project(':TestUtils')
+}

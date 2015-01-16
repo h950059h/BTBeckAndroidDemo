@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/vidsouza/Documents/work/AndroidWorkSpace/BT_Andriod/braintree_android/Demo/src/main/res/values-v21/themes.xml -->
+    <eat-comment/>
+    <style name="DemoAppTheme" parent="@android:style/Theme.Material.Light"/>
+</resources>

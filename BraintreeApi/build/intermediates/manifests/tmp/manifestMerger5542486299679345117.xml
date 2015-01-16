@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.braintreepayments.api.test" >
+
+    <uses-sdk
+        android:minSdkVersion="10"
+        android:targetSdkVersion="21" />
+
+    <instrumentation
+        android:name="android.test.InstrumentationTestRunner"
+        android:functionalTest="false"
+        android:handleProfiling="false"
+        android:label="Tests for com.braintreepayments.api.test"
+        android:targetPackage="com.braintreepayments.api.test" />
+
+    <application>
+
+        <!-- suppress AndroidDomInspection -->
+        <activity android:name="com.braintreepayments.api.test.TestActivity" />
+
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+</manifest>
